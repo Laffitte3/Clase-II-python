@@ -34,7 +34,7 @@ while running:
 
     if opcion == 3:
        borrar=int(input("Ingrese el nuemro de animal que desea borrar"))
-       animales.pop(borrar)
+       animales.pop(3)
 
     if opcion == 4:
        running = False

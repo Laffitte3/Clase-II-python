@@ -1,7 +1,7 @@
 
 
 
-for numero in range(0,5):
+"""for numero in range(0,5):
     print(str(numero)+".Hola")
 
 """
@@ -13,7 +13,7 @@ juguetes=""
 for juguetes in closet:
     print(juguetes)
     
-"""
+
 
 
 
